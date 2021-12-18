@@ -4,7 +4,7 @@ Título: Pokedex
 
 Descrição:  Esse projeto foi construído com base em uma Pokedex, possui vários tipos de Pokémons e informações sobre eles puxadas da Poke-API. Foi desenvolvido na 10 semana do curso de web fullstack da Labenu.
 
-Funcionalidades: Listagem de Pokémons, informações detalhadas sobre o, adição e remoção da Pokedex. 
+Funcionalidades: Listagem de Pokémons, informações detalhadas de cada pokemon, adição e remoção dos pokemons da Pokedex. 
 
 Ferramentas, dependências e libs instaladas: React JS, Axios, Styled-Components e React Router Dom.
 
